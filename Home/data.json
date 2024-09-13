@@ -1,0 +1,333 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S100",
+      "info": "Samsung's flagship smartphone with advanced features",
+      "detail": "Galaxy S23 offers a stunning display, powerful processor, and versatile camera setup.",
+      "price": 30000,
+      "imageName": "https://th.bing.com/th/id/OIP.lUhTxvr83fiBiaYHC-WwpgHaHa?rs=1&pid=ImgDetMain",
+      "ratingStar": 4.6,
+      "manufacturerId": 2,
+      "categoryId": 1
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "info": "Noise-cancelling wireless headphones with superior sound",
+      "detail": "The Sony WH-1000XM5 provides industry-leading noise cancellation and exceptional sound quality.",
+      "price": 349,
+      "imageName": "https://images.olx.com.pk/thumbnails/441988985-800x600.jpeg",
+      "ratingStar": 4.8,
+      "manufacturerId": 3,
+      "categoryId": 2
+    },
+    {
+      "id": "5",
+      "name": "Apple MacBook Pro",
+      "info": "High-performance laptop with Apple M1 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 1499,
+      "imageName": "https://th.bing.com/th/id/OIP.IHQBu51dRJBgaXqrCyi5XQHaHa?&rs=1&pid=ImgDetMain",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "6",
+      "name": "Google Pixel 7",
+      "info": "Google's flagship phone with advanced AI features",
+      "detail": "Pixel 7 offers excellent camera quality and Google’s latest AI innovations.",
+      "price": 799,
+      "imageName": "https://th.bing.com/th/id/OIP.15-er3HUlZyWLNeBJWRRTgHaHa?rs=1&pid=ImgDetMain",
+      "ratingStar": 4.4,
+      "manufacturerId": 5,
+      "categoryId": 1
+    },
+    {
+      "id": "7",
+      "name": "Bose QuietComfort 45",
+      "info": "Premium noise-cancelling headphones",
+      "detail": "Bose QuietComfort 45 offers comfortable fit and top-tier noise cancellation.",
+      "price": 329,
+      "imageName": "https://m.media-amazon.com/images/I/51CHPyFpnoL.jpg",
+      "ratingStar": 4.7,
+      "manufacturerId": 6,
+      "categoryId": 2
+    },
+    {
+      "id": "8",
+      "name": "Microsoft Surface Laptop 4",
+      "info": "Stylish laptop with excellent performance",
+      "detail": "Surface Laptop 4 combines performance and a sleek design, featuring a vibrant PixelSense display.",
+      "price": 1100,
+      "imageName": "https://th.bing.com/th/id/R.c24d76c196e58d235193e235469c0590?rik=bO5QG2P45TfukA&pid=ImgRaw&r=0",
+      "ratingStar": 4.3,
+      "manufacturerId": 7,
+      "categoryId": 3
+    },
+    {
+      "id": "9",
+      "name": "OnePlus 10 Pro",
+      "info": "High-end smartphone with fast performance",
+      "detail": "OnePlus 10 Pro features a fluid AMOLED display and super-fast charging capabilities.",
+      "price": 899,
+      "imageName": "https://th.bing.com/th/id/OIP.ofH5vJvGF80F7G_9d7Y1xAHaFj?rs=1&pid=ImgDetMain",
+      "ratingStar": 4.5,
+      "manufacturerId": 8,
+      "categoryId": 1
+    },
+    {
+      "id": "10",
+      "name": "HP Spectre x360",
+      "info": "Convertible laptop with touch screen",
+      "detail": "HP Spectre x360 offers flexibility with its 2-in-1 design, combining performance and portability.",
+      "price": 1300,
+      "imageName": "https://images.idgesg.net/images/article/2019/02/primary-100789808-large.jpg",
+      "ratingStar": 4.6,
+      "manufacturerId": 9,
+      "categoryId": 3
+    },
+    {
+      "id": "11",
+      "name": "Xiaomi Mi 12",
+      "info": "Affordable smartphone with high-end features",
+      "detail": "Xiaomi Mi 12 offers excellent value with a great camera and powerful hardware.",
+      "price": 699,
+      "imageName": "https://images.unsplash.com/photo-1580910051076-e6a79d36c23f",
+      "ratingStar": 4.2,
+      "manufacturerId": 10,
+      "categoryId": 1
+    },
+    {
+      "id": "12",
+      "name": "JBL Flip 6",
+      "info": "Portable Bluetooth speaker with great sound",
+      "detail": "JBL Flip 6 delivers powerful sound in a compact and durable design.",
+      "price": 119,
+      "imageName": "https://images.unsplash.com/photo-1560359617-76e18c0b6bb9",
+      "ratingStar": 4.5,
+      "manufacturerId": 11,
+      "categoryId": 4
+    },
+    {
+      "id": "13",
+      "name": "Asus ROG Zephyrus G14",
+      "info": "High-performance gaming laptop",
+      "detail": "Asus ROG Zephyrus G14 is known for its strong performance and compact gaming design.",
+      "price": 1600,
+      "imageName": "https://images.unsplash.com/photo-1579389083078-0c2f671f0d5b",
+      "ratingStar": 4.8,
+      "manufacturerId": 12,
+      "categoryId": 3
+    },
+    {
+      "id": "14",
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "info": "Ultra-light business laptop with robust features",
+      "detail": "ThinkPad X1 Carbon offers a lightweight design, solid performance, and excellent battery life.",
+      "price": 1400,
+      "imageName": "https://images.unsplash.com/photo-1620176435013-b8dff6b875a2",
+      "ratingStar": 4.7,
+      "manufacturerId": 13,
+      "categoryId": 3
+    },
+    {
+      "id": "15",
+      "name": "Sony Xperia 5 III",
+      "info": "Compact smartphone with excellent camera features",
+      "detail": "Xperia 5 III combines a compact form factor with advanced camera capabilities.",
+      "price": 999,
+      "imageName": "https://images.unsplash.com/photo-1580910051076-e6a79d36c23f",
+      "ratingStar": 4.3,
+      "manufacturerId": 3,
+      "categoryId": 1
+    },
+    {
+      "id": "25",
+      "name": "Apple MacBook Pro M3",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "25",
+      "name": "Apple MacBook Pro 1",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "25",
+      "name": "Apple MacBook Pro 1",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "25",
+      "name": "Apple MacBook Pro 1",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "25",
+      "name": "Apple MacBook Pro 1",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "26",
+      "name": "Apple MacBook Pro 15",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "26",
+      "name": "Apple MacBook Pro 15",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "26",
+      "name": "Apple MacBook Pro 15",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "50",
+      "name": "Apple MacBook Pro 154545645674567457456745674575686",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": "50",
+      "name": "154545645674567457456745674575686",
+      "info": "High-performance laptop with Apple M3 chip",
+      "detail": "The MacBook Pro with M1 chip delivers incredible performance and battery life for professionals.",
+      "price": 14990,
+      "imageName": "https://images.unsplash.com/photo-1504006833117-8886a355efbf",
+      "ratingStar": 4.9,
+      "manufacturerId": 1,
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Smartphones"
+    },
+    {
+      "id": "2",
+      "name": "Headphones"
+    },
+    {
+      "id": "3",
+      "name": "Laptops"
+    },
+    {
+      "id": "4",
+      "name": "Speakers"
+    },
+    {
+      "id": "25",
+      "name": "Apple HuWei"
+    }
+  ],
+  "manufacturers": [
+    {
+      "id": "1",
+      "name": "Apple"
+    },
+    {
+      "id": "2",
+      "name": "Samsung"
+    },
+    {
+      "id": "3",
+      "name": "Sony"
+    },
+    {
+      "id": "4",
+      "name": "Dell"
+    },
+    {
+      "id": "5",
+      "name": "Google"
+    },
+    {
+      "id": "6",
+      "name": "Bose"
+    },
+    {
+      "id": "7",
+      "name": "Microsoft"
+    },
+    {
+      "id": "8",
+      "name": "OnePlus"
+    },
+    {
+      "id": "9",
+      "name": "HP"
+    },
+    {
+      "id": "10",
+      "name": "Xiaomi"
+    },
+    {
+      "id": "11",
+      "name": "JBL"
+    },
+    {
+      "id": "12",
+      "name": "Asus"
+    },
+    {
+      "id": "13",
+      "name": "Lenovo"
+    }
+  ]
+}
